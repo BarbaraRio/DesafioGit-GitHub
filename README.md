@@ -1,3 +1,10 @@
-# DesafioGit-GitHub
+# Desafio Git-GitHub da DIO :desktop_computer:
 
-## Repositório para o projeto de conclusão do conteúdo sobre Git/GitHub
+
+
+#### Projeto para fixar e avaliar o conhecimento sobre Git-GitHub
+
+
+
+
+
